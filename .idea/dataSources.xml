@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="mobil@91.215.136.38" uuid="abd469e5-77a8-497c-b5b2-f54d4626491c">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://91.215.136.38:5432/mobil</jdbc-url>
+      <default-dialect>PostgreSQL</default-dialect>
+    </data-source>
+    <data-source source="LOCAL" name="BolashakAssistant@91.215.136.38" uuid="6c9de00f-00d1-4fe1-a752-4141094deb3b">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://91.215.136.38:5432/BolashakAssistant</jdbc-url>
+      <default-dialect>PostgreSQL</default-dialect>
+    </data-source>
+  </component>
+</project>
