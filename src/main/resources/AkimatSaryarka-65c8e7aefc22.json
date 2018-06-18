@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "akimatsaryarka-175617",
+  "private_key_id": "65c8e7aefc22e04c77fb39813e355f16210be4ed",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDNINUmvlHt/J/P\nUo6VheJX5A3n5VRvtFHPUS1Obatg1+qHu/27iw99MlT7X5oyDRMFXrqev6Nv8mIH\nnVjMVV+0zESEU84mkizbrf1NcCz61F2z0gXMdoF+GULOIxwxZsJH2zu/RCbj10ig\nTJXnjFYek9opPRGxRTX3K4AHrjJCN4o/jgHqOPIitOV3PiesQiYQeBkedy4SCmsU\n+CBmtucsWKfOmg9m8q5apNvcg5qOE2q4C6d7XUsWu+LzF6R6k3AnR9KE8ewruQGg\n9WaV44V6Sa8rRbtRDIdav4CnrIPMyM3xSPhineK7VA0DAo4twkYtUY8CB6rpwBAS\nNO60jZHHAgMBAAECggEAO3++A/5pYlgH/MlsDUfn5umB9RUqgDo0Dqfztc+Oycjn\nQNbRGtCTvhNW3hEVd1Yegcy/4eMhY4vRTncf9ij/WUB00VNDtSFqPJBDrG4QxfLK\neSm+v9dR6UMngwZhG508Vj5rnqeEhksASGregmrM4hKt0Y9ireIu7JJkERZAgr73\ndt/FOzjz93j3rg6QJwXDQDCkS2esjz5t4vTX0j3WBpY93khhQ+7EEAESPzuHfpWj\nJTa/Y9/dWsg6NtQ0IibM5liIUOLVKjne2+FfvkKMxiRln1MiOuwG5Da9/DS0ezxV\nRT28Z7ttgursxZ4WKEe+mjR814L4fFM8YtW2ZCapQQKBgQDpefbAMyxN2j2BhyVE\nM7j+VhI5k6OqAGQV7ZZ+gyKhpQD+gV9YyXzZR4xEoiqAr/9WVu9jVhUFbkg52fXY\nflFsyfODOHvfHsFI1No01ZJDHJMltVznVtgHQG35FLAq6zdmTmROrGIwmV+HLeo+\nhKiXH5NcJPV9EXvw0+zRlVwvQQKBgQDg6sUaf9bRii3ivgtFSXFnDOQlcteOc/xN\ny7H+H3wbuLjdy6dbeSjh2eFCJXh2Z3P5g8hTRiwCNPHVG38fkC+84GdxscHuCRT8\nAekI9vuI7+GKQ/9dPsg1W6UVJWw8HdQPNhf4VRP/q7Is4DowuNZ4yg6OK2P9p/NP\njhXkd92HBwKBgFqMY6dM8WzMLDh0+n4F9UQmi3DrEnlXJ3ndqBUutJquTMFn2Vus\n4Q+/kOX5YrSADW4lzzfeZc6yY66UGqW478laVWfZ2yjAW8PsUShWgCApD+R6/yn1\nY1kEouIMJPqwOM8jrgFZF8ezY/ogU42lk2Dw7Qy6hL7ZrhDLkDgETjlBAoGBAN5D\notx5ENSpdIbpv0GNPl/TwXGwd4vy2pYWgaLbgk3y0d1877nZlaj7Izu2w8Beo6Ej\ntcd1RPA5WfJ65blPR52jNRaJz1dn6jDPwnZ1fETqqTt1ztlavYbdNdobzUXrRDB0\nCGQDz2uNRNpMC7UyM9/R7WhZQMreOfeYNdI9EdHpAoGATR0nyTOtZC/DDRu0+Jhv\nDEMWtLXRoRIHX3A0HZFVH+5nJY4DLXlM/2rR/13QKpF9iXR1hEqtQbulPVEAzUrQ\nANbvHN1KG3bsTDv8Bmj4r4Q/TSsZQ5NH4Kitsyk0x1yt6HvJtfSdUmpcKXViANhO\nNYscOdwBtikSY5hA+ldvnEs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "akimatserviceaccount@akimatsaryarka-175617.iam.gserviceaccount.com",
+  "client_id": "117327824473192976693",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/akimatserviceaccount%40akimatsaryarka-175617.iam.gserviceaccount.com"
+}

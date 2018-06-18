@@ -1,0 +1,1 @@
+-- UPDATE public.questions SET text_q = 'Ваше мнение об кафе "Райхан"? Просим указать жалобы и предложения' WHERE id = 12;
